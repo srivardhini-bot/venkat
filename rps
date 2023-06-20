@@ -23,4 +23,4 @@ while True:
     play_again = input("Do you want to play again? (yes/no): ")
     if play_again == "no":
         break
-    123456789
+    12345678987654321
